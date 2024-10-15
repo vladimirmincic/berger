@@ -4,7 +4,10 @@ from reportlab.platypus import SimpleDocTemplate, Table, TableStyle, Paragraph
 from rounds import get_rounds_data
 from datetime import datetime
 
+# Enter Berger number
 rounds = 14
+
+# Title of Berger Table
 tournament_name = "Tournament"
 
 
