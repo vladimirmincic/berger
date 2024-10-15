@@ -1,5 +1,6 @@
 column = ""
 
+# Enter names of teams
 ekipa_1 = "aaaaaaaaaa"
 ekipa_2 = "bbbbbbbbbb"
 ekipa_3 = "cccccccccc"
